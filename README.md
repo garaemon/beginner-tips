@@ -1,1 +1,1 @@
-# jsk-tutorials-proto
+# beginner tips
