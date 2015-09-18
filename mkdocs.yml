@@ -1,6 +1,8 @@
 site_name: Beginner tips
 theme: readthedocs
 pages:
-  - "Introduction": "index.md"
-  - "git": "git.md"
-  - "github": "github.md"
+  - Introduction: index.md
+  - git: git.md
+  - github: github.md
+  - emacs: emacs.md
+  - ros: ros.md
