@@ -4,5 +4,6 @@ pages:
   - Introduction: index.md
   - git: git.md
   - github: github.md
+  - markdown: markdown.md
   - emacs: emacs.md
   - ros: ros.md
