@@ -1,2 +1,6 @@
 site_name: Beginner tips
 theme: readthedocs
+pages:
+  - "Introduction": "index.md"
+  - "git": "git.md"
+  - "github": "github.md"
