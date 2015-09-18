@@ -1,4 +1,9 @@
 script: bash ./deploy.sh
+sudo: false
+addons:
+  apt:
+    packages:
+      - python-pip
 env:
   global:
     - GH_REF: github.com/garaemon/beginner-tips.git
