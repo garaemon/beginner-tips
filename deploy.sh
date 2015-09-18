@@ -1,6 +1,6 @@
 #!/bin/bash
 set -e # exit with nonzero exit code if anything fails
-pip install mkdocs --user
+pip install mkdocs --user --quiet
 mkdocs build
 
 # clear and re-create the out directory
