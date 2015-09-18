@@ -1,7 +1,5 @@
 script: bash ./deploy.sh
 sudo: false
-language: python
-cache: pip
 addons:
   apt:
     packages:
