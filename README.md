@@ -1,1 +1,1 @@
-# beginner tips
+# See https://garaemon.github.io/beginner-tips
