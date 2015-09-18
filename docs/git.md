@@ -37,3 +37,7 @@ gitの操作をする場合、4つのレイヤを考えることでスムーズ�
 * `git checkout -- <file>`
 * `git diff`
 * `git diff --cached`
+
+# magit for emacs users
+emacsを使っている人はぜひ[magit](https://github.com/magit/magit)を利用しましょう。
+各種gitの操作がemacsから可能になります。
